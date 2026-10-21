@@ -79,8 +79,8 @@ ScarletHop consists of three main layers:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/AbinavRamasamy/HackRU_F26.git
-cd HackRU_F26
+git clone https://github.com/AbinavRamasamy/ScarletHop.git
+cd ScarletHop
 ```
 
 ---
